@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://baterock-minecraft.github.io/blog</id>
+    <id>https://debatecraft.github.io/blog</id>
     <title>DebateCraft Blog</title>
     <updated>2021-02-27T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://baterock-minecraft.github.io/blog"/>
+    <link rel="alternate" href="https://debatecraft.github.io/blog"/>
     <subtitle>DebateCraft Blog</subtitle>
-    <icon>https://baterock-minecraft.github.io/img/favicon.ico</icon>
+    <icon>https://debatecraft.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Hello world!]]></title>
         <id>Hello world!</id>
-        <link href="https://baterock-minecraft.github.io/blog/2021/02/27/hello"/>
+        <link href="https://debatecraft.github.io/blog/2021/02/27/hello"/>
         <updated>2021-02-27T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[`text]]></summary>
     </entry>

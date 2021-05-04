@@ -2,14 +2,14 @@
 <rss version="2.0">
     <channel>
         <title>DebateCraft Blog</title>
-        <link>https://baterock-minecraft.github.io/blog</link>
+        <link>https://debatecraft.github.io/blog</link>
         <description>DebateCraft Blog</description>
         <lastBuildDate>Sat, 27 Feb 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Hello world!]]></title>
-            <link>https://baterock-minecraft.github.io/blog/2021/02/27/hello</link>
+            <link>https://debatecraft.github.io/blog/2021/02/27/hello</link>
             <guid>Hello world!</guid>
             <pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[`text]]></description>
